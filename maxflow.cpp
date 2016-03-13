@@ -6,3 +6,4 @@ Check if a graph is bipartite- ? It has no odd cyles. , Coloring is possible wit
 
 Matching .is a subset of number of edges so taken so that number of edges that are incident or start from any vertex is 
 not greater than one.
+Maximum matching using ford fulkerson algo - spoj TAXI
