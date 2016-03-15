@@ -9,7 +9,7 @@ Check if a graph is bipartite- ? It has no odd cyles. , Coloring is possible wit
 What is Matching ? 
 Matching .is a subset of number of edges so taken so that number of edges that are incident or start from any vertex is 
 not greater than one.
-Maximum matching using ford fulkerson algo - spoj (TAXI)
+Maximum Bipartite matching using ford fulkerson algo - spoj (TAXI)
 Consider a source s and connect all taxis with flow=1 and connect all persons to sink with flow=1 rest everywhere add edge with flow = inf
 capacity where you meet the required conditions satisfied between the two and find maximum flow = maximum matching.
 
